@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin: 20;
+    padding: 0;
+    background-image:url('képek/fiu.png');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+     
+}
+header {
+    background-color: #ffffff00;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+}
+nav a {
+    font-weight: 800;
+    color: #000000;
+    margin: 0 15px;
+    font-size: 12,5px;
+    text-decoration: none;
+}
+.Rólam {
+    background-color: #eeaf5ca4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
+}
+.Tanulmányok {
+    background-color: #eeaf5ca4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
+}
+.Érettségim {
+    background-color: #eeaf5ca4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
+}
+.Kapcsolat {
+    background-color: #eeaf5ca4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,1);
+}
